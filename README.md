@@ -11,7 +11,7 @@
 ### Task 3 take-out<br>
 1. Learning how to draft a decent software development proposal<br>
 ### Task 4 take-out<br>
-1. Learning how to read the log data and to spot the abnormal value<br>
+1. Learning how to read the web log data and to spot the abnormal value<br>
 
 ### Task 5 take-out<br>
 1. Adding one new column to display the class of unfair pay => using the apply function in pandas (better way ?)
